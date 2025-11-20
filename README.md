@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on Pterodactyl Extension with Laravel and Blade php<br>I’m currently learning php/blade php<br>I’m a Student from Germany My website : [lennox-rose.com](https://lennox-rose.com)
+I’m currently working on Pterodactyl Extension with Laravel and Blade php<br>I’m currently learning php/blade php<br>I’m a Student from Germany. My website : [lennox-rose.com](https://lennox-rose.com)
 
 
 ## Socials:
