@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.jpg" alt="Banner" width="800"/>
+
 # About Me
 I’m currently working on Pterodactyl Extension with Laravel and Blade php<br>
 I’m currently learning php/blade php<br>
