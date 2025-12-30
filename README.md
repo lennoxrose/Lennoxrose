@@ -5,7 +5,8 @@
 # About Me
 I’m currently working on Pterodactyl Extension with Laravel and Blade php<br>
 I’m currently learning php/blade php<br>
-I’m a Student from Germany. My website : https://lennox-rose.com
+I’m a Student from Germany
+My website : https://lennox-rose.com
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/l.e.nnox)
