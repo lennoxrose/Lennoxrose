@@ -29,7 +29,7 @@ to reach out. Always happy to connect with like-minded people.
 [lennox-rose.com](https://lennox-rose.com) •  admin@lennox-rose.com
 
 ## ☕ Support
-[![Support Lennox Rose](./kofi.png)](https://ko-fi.com/Q5Q41ZPSHY)
+[![Support Lennox Rose](./kofi.png)](https://ko-fi.com/lennoxrose)
 
 # Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
