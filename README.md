@@ -26,10 +26,6 @@ to reach out. Always happy to connect with like-minded people.
 
 [lennox-rose.com](https://lennox-rose.com) •  admin@lennox-rose.com
 
-## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/l.e.nnox)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@lennox-rose.com)
-
 ## ☕ Support
 [![Support Lennox Rose](./kofi.png)](https://ko-fi.com/Q5Q41ZPSHY)
 
