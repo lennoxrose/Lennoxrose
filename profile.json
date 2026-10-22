@@ -8,17 +8,19 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
-    "about",
-    "stack",
-    "projects",
-    "stats",
-    "streak",
     "wave",
-    "buttons"
+    "stats",
+    "about",
+    "projects",
+    "streak",
+    "buttons",
+    "stack",
+    "socials"
   ],
   "hidden": [
-    "socials"
+    "socials",
+    "stack",
+    "about"
   ],
   "hero": {
     "greeting": "Yo im,",
@@ -58,7 +60,7 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "Main Languages",
         "items": [
           {
             "icon": "brand:typescript",
@@ -92,6 +94,10 @@
           {
             "icon": "brand:docker",
             "label": "Docker"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
           }
         ]
       },
@@ -118,7 +124,11 @@
     ],
     "overrides": {
       "ash": {
-        "icon": "local_fire_department"
+        "icon": "local_fire_department",
+        "text": "Java like Programming language with Memory Safety, GPU Acceleration entirely from scratch"
+      },
+      "HyprWall": {
+        "text": "A Wallpaper manager for Hyprland in Rust"
       }
     },
     "empty": "No description yet.",
