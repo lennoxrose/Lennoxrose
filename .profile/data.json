@@ -1,7 +1,7 @@
 {
- "key": "ddc4eb87",
+ "key": "2b490366",
  "stars": 0,
- "contributions": 537,
+ "contributions": 539,
  "repos": 11,
  "followers": 4,
  "languages": [
@@ -133,15 +133,19 @@
    {
     "c": 3,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 20,
-  "longest": 20
+  "current": 21,
+  "longest": 21
  },
  "pins": [
   {
