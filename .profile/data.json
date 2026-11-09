@@ -1,5 +1,5 @@
 {
- "key": "72bb120c",
+ "key": "ec21224d",
  "stars": 0,
  "contributions": 546,
  "repos": 11,
@@ -113,9 +113,13 @@
    {
     "c": 3,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
