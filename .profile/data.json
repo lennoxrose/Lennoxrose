@@ -1,7 +1,7 @@
 {
- "key": "5db2b768",
+ "key": "fd108de6",
  "stars": 0,
- "contributions": 552,
+ "contributions": 555,
  "repos": 11,
  "followers": 4,
  "languages": [
@@ -123,17 +123,21 @@
    {
     "c": 3,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 25,
-  "longest": 25
+  "current": 26,
+  "longest": 26
  },
  "pins": [
   {
